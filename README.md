@@ -108,43 +108,80 @@ It is called before the turn of each the player and it check many cases of stale
 -The user could start a new game or resume last game from the main menu interface.
 -The player chooses the coordinates of the piece that he wishes to move by typing the letter (capital or small) of the column followed by the number of the row.
 Ex. (A2)
+
+
 !['1'](docs/image-026.png)
+
+
 -Then the game shows the available positions for this piece if there is by showing these positions on the board and print them under the board
 And then you enter the second position in same way.
+
+
 !['1'](docs/image-028.png)
+
+
 -The game will refuse any trivial input or invalid input that crashes the rules of the game.
+
+
 !['1'](docs/image-029.png)
+
+
 -The player can change the piece he has chosen by enter 00
 -The player can undo his move any time by entering U and can redo by entering U and note that the game can undo to the first move.
 
 ## Sample Runs
 interface
+
 !['1'](docs/image-032.png)
+
 newGame
+
 !['1'](docs/image-033.png)
+
+
 taken out from both players
-!['1'](docs/image-034.png)
-availabe positions for move
+
 !['1'](docs/image-035.png)
-check
+
+
+availabe positions for move
+
 !['1'](docs/image-036.png)
-Can’t do move cause king still under check
-!['1'](docs/image-037.png)
-promotion
+
+
+check
+
 !['1'](docs/image-038.png)
+
+
+Can’t do move cause king still under check
+
 !['1'](docs/image-039.png)
-!['1'](docs/image-040.png)
-checkmate
+
+
+promotion
+
 !['1'](docs/image-041.png)
+
+
 !['1'](docs/image-042.png)
-stalemate
+
+
 !['1'](docs/image-043.png)
-!['1'](docs/image-044.png)
+
+
+checkmate
+
 !['1'](docs/image-045.png)
 
 !['1'](docs/image-046.png)
-!['1'](docs/image-047.png)
+
+
+stalemate
+
 !['1'](docs/image-048.png)
+
 !['1'](docs/image-049.png)
+
 !['1'](docs/image-050.png)
 
