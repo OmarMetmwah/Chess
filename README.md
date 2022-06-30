@@ -1,4 +1,4 @@
-!['1'](docs/icon (1).png)
+!['1'](docs/icon.png)
 
 
 ## Description of Application
