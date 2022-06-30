@@ -1,3 +1,6 @@
+!['1'](docs/icon.png)
+
+
 ## Description of Application
 This is a chess game which follow all the basic rules for the moves and all other game bases implemented using C programing language.
 The game validate all user inputs however trivial they are as the inputs are not case sensitive and the game also never crashes under any circumstances as I take the user inputs as strings and convert them with in the code to deal with them so any input from the user will do the action he wishes if its validate or wait for another input if not validate. The game autosave everything before each turn so that if the game closed any time the game could continue from last point and also can be undo and redo to the first and last move any time.
