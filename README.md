@@ -1,5 +1,7 @@
 !['1'](docs/icon.png)
 
+!['1'](docs/sample.gif)
+
 
 ## Description of Application
 This is a chess game which follow all the basic rules for the moves and all other game bases implemented using C programing language.
@@ -9,6 +11,10 @@ Then I implement other function for the main rules of the chess game to play the
 After that I implement the functions that saves and load the game.
 I prepared the interface of the game and the board to show the pieces in suitable way and show taken pieces from each player. When the game is opened it show the main menu interface from which the user can choose to start new game or load or see the rules and the manuals. After he chooses the board printed on screen on suitable way and beside the board there are two columns each of them is for taken pieces of each player and under these columns there is a plate shows player turn.
 Under the board the instructions asked the user for the input and show him the options he has like undo and redo and go back to the main menu. The board updated after each move and prints error messages for invalid inputs.
+
+## How To Download The Game And Start Playing it 
+- download Project.exe file and NewGame.txt file in same folder
+- open Project.exe and start playing and otjer files will be automatically created for loading and undoing.
 
 ## Features Application Provides
 
